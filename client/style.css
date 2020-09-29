@@ -555,6 +555,9 @@ nav a:hover {
     body {
         margin-top: 12%;
     }
+    .logo {
+        font-size: 20px;
+    }
     .contact, .contact-email {
         margin: 5% 2% 2% 2%;
     }
